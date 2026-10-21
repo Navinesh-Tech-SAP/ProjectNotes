@@ -1,5 +1,6 @@
 **Disk Space Monitoring and Email Alert System**
-Headline: An automated C# application that monitors Windows and Linux disk usage, records daily logs, and sends email alerts when usage exceeds configured thresholds.
+
+**Headline:** An automated C# application that monitors Windows and Linux disk usage, records daily logs, and sends email alerts when usage exceeds configured thresholds.
 
 **Header: Purpose of This Code**
 - To monitor disk space on Windows drives and Linux filesystems and identify usage exceeding defined limits.
